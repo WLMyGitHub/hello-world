@@ -1,0 +1,17 @@
+1.JSONArray与JSONObject的使用。
+https://www.cnblogs.com/shuilangyizu/p/6019561.html
+（１）将对象转换为字符串输出：
+ＪＳＯＮＡｒｒａｙ　ａｒｒａｙ　＝　ＪＳＯＮＡｒｒａｙ．ｆｒｏｍＯｂｊｅｃｔ（ｌｉｓｔ）；
+System.ｏｕｔ．ｐｒｉｎｔｌｎ（ａｒｒａｙ．ｔｏＳｔｒｉｎｇ（））；
+（２）将字符串转换为对象输出：
+String　json　＝　＂｛ｎａｍｅ：“Java”，ｐｒｉｃｅ：５５｝”
+ＪＳＯＮＯｂｊｅｃｔ　ｏｂｊｅｃｔ　＝　ＪＳＯＮObject．ｆｒｏｍObject（ｊｓｏｎ）；
+Ｓysteｍ．ｏｕｔ．ｐｒｉｎｔｌｎ（ｏｂｊｅｃｔ．ｇｅｔ（＂ｎａｍｅ”）＋＂｜”＋object．ｇｅｔ（＂ｐｒｉｃｅ”））；
+虚拟机连网。
+https://www.cnblogs.com/chengssblog/p/6531964.html
+linux下载地址：
+https://mirrors.aliyun.com/centos/7/isos/x86_64/
+https://www.python.org/downloads/
+nexus使用参考地址：
+https://jingyan.baidu.com/album/aa6a2c14935c310d4c19c498.html?picindex=6
+
